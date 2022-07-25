@@ -1,0 +1,11 @@
+Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call.
+Clear instructions for how to RECEIVE data from the microservice you implemented
+UML sequence diagram showing how requesting and receiving data work. Make it detailed enough that your partner (and your grader) will understand
+
+What they should be sending to my microservice? Perhaps your microservice requires a special code to be sent at the beginning of the connection and then send the actual data to process or perhaps it just starts processing any data as soon as the connection is established.
+
+How they can send the request to my microservice? Include the pipe library to send the request (zeroMQ in this case) 
+
+How they can get the response from my microservice?
+
+An UML sequence diagram showing this entire process clearly.
