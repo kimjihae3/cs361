@@ -1,4 +1,4 @@
-My microservice translates English sentences to Spanish.
+My microservice translates English text to Spanish using zeroMQ as communication pipeline.
 
 Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call.
 - First, install zeroMQ to send the request. For python, you can use "pip install pyzmq".
