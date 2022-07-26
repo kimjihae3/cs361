@@ -1,7 +1,6 @@
 My microservice translates English sentences to Spanish.
 
-Clear instructions for how to REQUEST data from the microservice you implemented. Include an example ca![uml](https://user-images.githubusercontent.com/86205051/180896491-fc3189dc-44ab-46db-85f7-2d3db1735616.jpg)
-ll.
+Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call.
 - First, install zeroMQ to send the request. For python, you can use "pip install pyzmq".
 - When server program runs, it waits for a request from client server to be sent. 
 - When client server runs the client server will show a message "Connect to server..." 
@@ -23,5 +22,5 @@ and run it again to show the differnt word in Spanish (ex. Thank you).
 
 
 UML sequence diagram showing how requesting and receiving data work. Make it detailed enough that your partner (and your grader) will understand
-
+![uml](https://user-images.githubusercontent.com/86205051/180896491-fc3189dc-44ab-46db-85f7-2d3db1735616.jpg)
  
