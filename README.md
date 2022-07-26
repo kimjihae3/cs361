@@ -11,7 +11,7 @@ Clear instructions for how to REQUEST data from the microservice you implemented
 and run it again to receive the differnt word in Spanish (ex. Thank you).
 
 Clear instructions for how to RECEIVE data from the microservice you implemented
-- First, install zeroMQ to receive the request. For python, you can use "pip install pyzmq".
+- First, install zeroMQ to receive the data from the server program. For python, you can use "pip install pyzmq".
 - My server program imports Translator from googletrans to translate the requsted English text to Spanish.  
 - When client program sends a request, my server program will translate the reqeusted text. 
 - Then, my client program receives the translated word and prints in on the screen. 
