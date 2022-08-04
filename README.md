@@ -22,5 +22,5 @@ and run it again to show the differnt word in Spanish (ex. Thank you).
 
 
 UML sequence diagram showing how requesting and receiving data work. Make it detailed enough that your partner (and your grader) will understand
-![uml](https://user-images.githubusercontent.com/86205051/180896491-fc3189dc-44ab-46db-85f7-2d3db1735616.jpg)
+![IMG_6756](https://user-images.githubusercontent.com/86205051/182964047-1df02dfc-d8e4-458b-bdb2-833d498acc21.jpg)
  
